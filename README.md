@@ -22,6 +22,6 @@ I love designing and building things, whether it's software, hardware, or just a
 - **Database:** SQL, MongoDB
 - **Other Technologies:** Git, Docker, AWS
 
-Feel free to reach out to me at ayoojurongbe@gmail.com or connect with me on **LinkedIn**!
+Feel free to reach out to me at ayoojurongbe@gmail.com or connect with me on [https://www.linkedin.com/in/ayodejiojurongbe/]!
 
                                                                                                                                                       
